@@ -1,0 +1,7 @@
+{
+  "name": "NurHelpDesk",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
